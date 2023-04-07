@@ -1,0 +1,81 @@
+Hatice Günday---------->FD---------->kaldı
+Mustafa Akyürek---------->CB---------->geçti
+Ramazan Topaloğlu---------->AA---------->geçti
+Elif Akşit---------->DC---------->koşullu geçti
+Mehmet Düşenkalkar---------->AA---------->geçti
+Hatice Dağdaş---------->BA---------->geçti
+Merve Tütüncü---------->AA---------->geçti
+Hatice Pekkan---------->DD---------->koşullu geçti
+Merve Alyanak---------->FF---------->kaldı
+Meryem Aşıkoğlu---------->FD---------->kaldı
+Süleyman Uluhan---------->FD---------->kaldı
+Esra Ekici---------->AA---------->geçti
+Emine Kumcuoğlu---------->DC---------->koşullu geçti
+Süleyman Kumcuoğlu---------->AA---------->geçti
+Şerife Kumcuoğlu---------->DD---------->koşullu geçti
+Sude Tekand---------->CB---------->geçti
+Elif Nebioğlu---------->AA---------->geçti
+Sude Berberoğlu---------->FF---------->kaldı
+Yasemin Durmaz---------->AA---------->geçti
+Fadime Akyürek---------->DD---------->koşullu geçti
+Fatma Akşit---------->DC---------->koşullu geçti
+Emre Sözeri---------->AA---------->geçti
+Yasemin Kurutluoğlu---------->AA---------->geçti
+Fatma Akman---------->AA---------->geçti
+Hacer Korol---------->CB---------->geçti
+Recep Altınbaş---------->DC---------->koşullu geçti
+Murat Numanoğlu---------->AA---------->geçti
+Fatih Fahri---------->AA---------->geçti
+Halil Sarıoğlu---------->FF---------->kaldı
+Merve Arıcan---------->AA---------->geçti
+İsmail Kaplangı---------->AA---------->geçti
+Emir Egeli---------->DD---------->koşullu geçti
+Havva Erbulak---------->AA---------->geçti
+Hacer Okumuş---------->CB---------->geçti
+Salih Ağaoğlu---------->AA---------->geçti
+Zeliha Ağaoğlu---------->DC---------->koşullu geçti
+Abdullah Solmaz---------->FF---------->kaldı
+Fatih Elmastaşoğlu---------->AA---------->geçti
+Hacer Karaer---------->CB---------->geçti
+Sude Kumcuoğlu---------->AA---------->geçti
+Abdullah Kuzucu---------->FD---------->kaldı
+Hanife Söyler---------->DC---------->koşullu geçti
+Sude Orbay---------->AA---------->geçti
+Sultan Uluç---------->DC---------->koşullu geçti
+Hanife Beşok---------->CC---------->geçti
+Hülya Karadaş---------->FD---------->kaldı
+Fatma Tuğluk---------->AA---------->geçti
+Halil Güçlü---------->DC---------->koşullu geçti
+Recep Eronat---------->FD---------->kaldı
+Büşra Koyuncu---------->DC---------->koşullu geçti
+Hüseyin Kunt---------->AA---------->geçti
+Halil Numanoğlu---------->FD---------->kaldı
+Hülya Gürmen---------->DC---------->koşullu geçti
+Ömer Kulaksızoğlu---------->AA---------->geçti
+Zeliha Demirel---------->CC---------->geçti
+Mustafa Aşıkoğlu---------->CB---------->geçti
+Süleyman Orbay---------->CB---------->geçti
+İbrahim Erez---------->AA---------->geçti
+Süleyman Koçyiğit---------->FD---------->kaldı
+Salih Orbay---------->AA---------->geçti
+Şerife Süleymanoğlu---------->CC---------->geçti
+Murat Adal---------->CC---------->geçti
+Osman Aybar---------->DD---------->koşullu geçti
+Sude Balcı---------->AA---------->geçti
+Zeynep Koyuncu---------->DD---------->koşullu geçti
+İbrahim Pekkan---------->AA---------->geçti
+Fatih Erdoğan---------->AA---------->geçti
+Abdullah Ekşioğlu---------->AA---------->geçti
+Osman Adan---------->FD---------->kaldı
+Ramazan Paksüt---------->AA---------->geçti
+Halil Gökgöz---------->AA---------->geçti
+Emre Kurutluoğlu---------->BA---------->geçti
+Mahmut Akışık---------->AA---------->geçti
+Yusuf Hamzaoğlu---------->CB---------->geçti
+Ali Akan---------->BA---------->geçti
+Zeliha Beşerler---------->DD---------->koşullu geçti
+Ali Oraloğlu---------->AA---------->geçti
+Hanife Poçan---------->AA---------->geçti
+Ayşe Kurutluoğlu---------->FF---------->kaldı
+Fatih Akman---------->FD---------->kaldı
+Mehmet Babacan---------->AA---------->geçti
